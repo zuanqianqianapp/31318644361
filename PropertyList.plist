@@ -33,7 +33,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.drcpb222</string>
+				<string>com.av38com.app</string>
 				<key>bundle-version</key>
 				<string>1.0.20</string>
 				<key>kind</key>
@@ -41,7 +41,7 @@
 				<key>subtitle</key>
 				<string></string>
 				<key>title</key>
-				<string>达人彩票</string>
+				<string>AV38</string>
 			</dict>
 		</dict>
 	</array>
